@@ -66,7 +66,7 @@ export class App extends Component {
       <div class="page-sec">
         <header cell-bg="[-c2]">
           <div cell-q="[-cw]" class="">
-            <div cell-nv="[-nv:-fx-h100]" class="">
+            <div cell-nv="[-nv:-st-fx]" class="">
               <div cell-nv="[-na]" class="">
                 <div cell-nv="[-lg]" cell-bg="[-c2]" class="">
                   <p cell-f="[-s35-c5-w9-f2]" cell-p="[-p5]">

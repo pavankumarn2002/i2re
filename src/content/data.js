@@ -16,8 +16,8 @@ export class Data extends Component {
         loadScript("https://res.cloudinary.com/veraion9/raw/upload/v1659071325/i2/jq%28dy-react%29/cell.js");
         loadScript("https://res.cloudinary.com/veraion9/raw/upload/v1659071576/i2/jq%28dy-react%29/slide.js");
         loadScript("https://res.cloudinary.com/veraion9/raw/upload/v1659071524/i2/jq%28dy-react%29/input.js");
-        loadScript("https://res.cloudinary.com/veraion9/raw/upload/v1659071619/i2/jq%28dy-react%29/tabs.js");
-        loadScript("https://res.cloudinary.com/veraion9/raw/upload/v1659759161/data%28react%29.js");
+        loadScript("https://res.cloudinary.com/veraion9/raw/upload/v1663476689/i2/jq%28dy-react%29/tabs.js");
+        loadScript("https://res.cloudinary.com/veraion9/raw/upload/v1663476311/i2/jq%28dy-react%29/data.js");
     }
     render() {
         return (
